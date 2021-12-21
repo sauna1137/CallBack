@@ -13,6 +13,7 @@
 		8A88C6EC2772272D0096523E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A88C6EA2772272D0096523E /* Main.storyboard */; };
 		8A88C6EE2772272E0096523E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A88C6ED2772272E0096523E /* Assets.xcassets */; };
 		8A88C6F12772272E0096523E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A88C6EF2772272E0096523E /* LaunchScreen.storyboard */; };
+		8A88C6F9277228610096523E /* CallBackViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A88C6F8277228610096523E /* CallBackViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8A88C6ED2772272E0096523E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A88C6F02772272E0096523E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A88C6F22772272E0096523E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A88C6F8277228610096523E /* CallBackViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallBackViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				8A88C6E42772272D0096523E /* AppDelegate.swift */,
 				8A88C6E62772272D0096523E /* SceneDelegate.swift */,
+				8A88C6F8277228610096523E /* CallBackViewModel.swift */,
 				8A88C6E82772272D0096523E /* ViewController.swift */,
 				8A88C6EA2772272D0096523E /* Main.storyboard */,
 				8A88C6ED2772272E0096523E /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				8A88C6E92772272D0096523E /* ViewController.swift in Sources */,
 				8A88C6E52772272D0096523E /* AppDelegate.swift in Sources */,
 				8A88C6E72772272D0096523E /* SceneDelegate.swift in Sources */,
+				8A88C6F9277228610096523E /* CallBackViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
